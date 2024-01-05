@@ -1,6 +1,6 @@
 ### Marteladela do Luís para modbus no HA para haver compatibilidade com o contador
 
-- Entrar por consola no HA e executar
+- Entrar por consola no HA e executar seguintes comandos para saltar para o validators.py do Modbus.
 
 ```python
 #Fazer login com as nossos dados: 
