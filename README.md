@@ -17,7 +17,7 @@ vi /usr/src/homeassistant/homeassistant/components/modbus/validators.py
 #ativar modo de edição no vi
 i
 ```
-### Localizar a entrada com ( I maiúsculo ) e editar como linha abaixo passando de 2 para 1.
+Localizar a entrada com ( I maiúsculo ) e editar como linha abaixo passando de 2 para 1.
 
 ```python
 DataType.UINT32: ENTRY("I", 1, PARM_IS_LEGAL(False, False, True, True, True))
